@@ -1,7 +1,7 @@
 // import { initScrollIntegration, initV1 } from "http://lib.digitaldevops.com.mx/v1.1.js";
 // import { loadFrontend, navigate, scrollTo } from "../vendor/v2.js";
 
-import { loadFrontend, navigate, scrollTo } from "http://lib.digitaldevops.com.mx/v2.js";
+import { loadFrontend, navigate, scrollTo } from "https://lib.digitaldevops.com.mx/v2.js";
 
 
 loadFrontend({
