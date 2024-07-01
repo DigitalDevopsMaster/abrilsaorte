@@ -29,10 +29,29 @@ class Nogome {
             
         `
         this.innerHTML = `
-            <style>
-                ${styles}
+            <style> 
+             {
+              ${styles}
+              h1.a { text-aling: center; }
+             }
             </style>
             <div> Hola inmundo </div>   
+  <body>
+  <div class: "a"; >
+    <h1> Menú </h1>
+  <div class="box">
+    <br>Mostachón
+    
+    <br>Galletas de Brownie
+    <br>Galletas craqueladas
+    <br>Brownies
+    <br>Tiramisú
+    <br>Roles de canela
+    <br>Pan de zanahória
+  </div>
+</div>
+  
+      </body>
 
         `;
 

@@ -15,7 +15,7 @@ loadFrontend({
     email: "abrilsaorte@mail.com",
     phone: "(999) 999-9999",
     address: "Calle false 123",
-    logo: "./assets/logo.png",
+    logo: "./assets/CAFESINFONDO.png",
     openingHours: ["Lunes a Viernes 9:00 am a 6:00 pm", "Sábado 9:00 am a 2:00 pm"]
   },
   palette: {
